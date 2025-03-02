@@ -1,4 +1,6 @@
-## Oi eu sou o Nicolas Thales, estudante da área de programação!
+## 🖐🏼Hi, I’m Nicolas Thales, a programming student!
+
+## 📊Stats
 
 [![Lasconi18's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasthalesDEV)](https://github.com/NicolasthalesDEV/github-readme-stats)
 
