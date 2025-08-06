@@ -5,6 +5,7 @@
 [![Lasconi18's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasthalesDEV)](https://github.com/NicolasthalesDEV/github-readme-stats)
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
